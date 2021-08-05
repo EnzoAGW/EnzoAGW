@@ -11,7 +11,11 @@
  </ul>
 
 ##
-  
+
+### Está vivoo!
+  <a href="http://www.caririeisso.com.br">Cariri é Isso</a> • (Front-End)
+##
+
  ### Isso é oque eu sei
  <div align="center">
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -42,5 +46,8 @@
 
   <div>
     <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-    <img src=https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </div>
+                                                                                              
+                                                                                                        
+                                                                                                       
