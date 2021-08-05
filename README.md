@@ -42,12 +42,16 @@
 
 ##
 
-### já utilizei
+### Já utilizei
 
   <div>
     <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </div>
                                                                                               
-                                                                                                        
+<br>
+<br>
+
+### Fontes
+<a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">Badges</a>
                                                                                                        
