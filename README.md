@@ -13,7 +13,7 @@
 ##
 
 ### Está vivoo!
-  <a href="http://www.caririeisso.com.br">Cariri é Isso</a> • (Front-End)
+  
 ##
 
  ### Isso é oque eu sei
