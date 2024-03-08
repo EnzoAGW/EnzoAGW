@@ -4,8 +4,8 @@
 ### Este sou eu 
  <ul>
   <li>Cursando Sistemas da Informação na UniFAP CE e Ciência da Computação na UFCA</li>
-  <li>🥳20 anos</li>
-  <li>Desenvolvedor Front-End Em construção</li>
+  <li>🥳22 anos</li>
+  <li>Desenvolvedor em construção</li>
   <li>🤖Animes</li>
   <li>📕Livros</li>
  </ul>
