@@ -15,10 +15,10 @@
 ##
 
 ### IT'S ALIIIIVE!!!
-  <a href="https://play.google.com/store/apps/details?id=premier.bix">Bix</a>
-  <a href="https://play.google.com/store/apps/details?id=centro.centro_cardio">Centro Cardio</a>
-  <a href="https://play.google.com/store/apps/details?id=com.tresit.prevmais">Prev +</a>
-  <a href="">Free Turismo</a>
+  <a href="https://play.google.com/store/apps/details?id=premier.bix">|Bix|</a><br>
+  <a href="https://play.google.com/store/apps/details?id=centro.centro_cardio">|Centro Cardio|</a><br>
+  <a href="https://play.google.com/store/apps/details?id=com.tresit.prevmais">|Prev +|</a><br>
+  <a href="">|Free Turismo|</a><br>
 ##
 
  ### What i know:
