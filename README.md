@@ -1,6 +1,10 @@
 <h1 align="center">Console.log('Hello World') 😁
 </h1>
-  <h2><b>Welcome to my profile, brave traveler!</b><br>Here you will know me better, enjoy!</h2>
+<h2>
+  <b>Welcome to my profile, brave traveler!</b><br>]
+  Here you will know me better, enjoy!
+</h2>
+  
 ### About me: 
  <ul>
   <li>🥳22y </li>
