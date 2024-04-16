@@ -1,9 +1,9 @@
-<h1 align="center">Console.log('Hellow World') 😁
+<h1 align="center">Console.log('Hello World') 😁
 </h1>
 
 ### About me: 
  <ul>
-  <li>Cursando Sistemas da Informação na UniFAP CE e Ciência da Computação na UFCA</li>
+  <li>Cursando Sistemas da Informação na UniFAP CE</li>
   <li>🥳22y </li>
   <li>Mobile/Web developer</li>
   <li>🤖Animes</li>
@@ -18,7 +18,7 @@
   <a href="https://play.google.com/store/apps/details?id=premier.bix">|Bix|</a><br>
   <a href="https://play.google.com/store/apps/details?id=centro.centro_cardio">|Centro Cardio|</a><br>
   <a href="https://play.google.com/store/apps/details?id=com.tresit.prevmais">|Prev +|</a><br>
-  <a href="">|Free Turismo|</a><br>
+  <a href="https://freeturismo.netlify.app/">|Free Turismo|</a><br>
 ##
 
  ### What i know:
