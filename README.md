@@ -3,7 +3,7 @@
 
 ### About me: 
  <ul>
-  <li>Cursando Sistemas da Informação na UniFAP CE</li>
+  <li><b>Welcome to my profile, brave traveler!</b><br>Here you will know me better, enjoy!</li>
   <li>🥳22y </li>
   <li>Mobile/Web developer</li>
   <li>🤖Animes</li>
