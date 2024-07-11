@@ -18,11 +18,13 @@
 ##
 
 ### My work:
-  <a href="https://play.google.com/store/apps/details?id=com.tresit.prevmais">|Prev +|</a><br>
-  <a href="https://3prev.app.br/#/login">|3prev|</a><br>
-  <a href="https://play.google.com/store/apps/details?id=premier.bix">|Bix|</a><br>
-  <a href="https://play.google.com/store/apps/details?id=centro.centro_cardio">|Centro Cardio|</a><br>
-  <a href="https://freeturismo.netlify.app/">|Free Turismo|</a><br>
+  <a href="https://play.google.com/store/apps/details?id=com.tresit.prevmais">| Prev + |</a><br>
+  <a href="https://3prev.app.br/#/login">| 3prev |</a><br>
+  <a href="https://premierbrasilumbix.com.br/">| Premier Brasil |</a><br>
+  <a href="https://play.google.com/store/apps/details?id=centro.centro_cardio">| Centro Cardio |</a><br>
+  <a href="https://freeturismo.netlify.app/">| Free Turismo |</a><br>
+  <a href="https://clinicazelus.com/">| Zelus |</a><br>
+  <a href="https://cardiotria.com.br/">| CardioTria |</a><br>
 ##
 
  ### What i know:
