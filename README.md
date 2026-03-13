@@ -1,32 +1,32 @@
-# 🚀 Enzo Alexandre | Software Engineer (Fullstack)
+# 🚀 Enzo Alexandre | Fullstack Engineer
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://img.shields.io/badge/Fullstack-Next.js%20%7C%20ASP.NET%20Core%20%7C%20Node-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Crato%2C%20CE-black?style=for-the-badge&logo=googlemaps" />
-</div>
+  <img src="https://img.shields.io/badge/Location-Crato%2C%20CE%20(BR)-black?style=for-the-badge&logo=googlemaps" />
+</div> -->
 
 <p align="center">
-  <strong>Especialista em Engenharia de Software e Interfaces de Alta Fidelidade.</strong><br>
-  Focado em transformar desafios técnicos complexos em produtos escaláveis e de alta performance.
+  <strong>Specializing in Software Engineering and High-Fidelity Interfaces.</strong><br>
+  Focused on transforming complex technical challenges into scalable, high-performance products.
 </p>
 
 ---
 
-### 🏆 Impacto e Resultados (Proven Track Record)
+### 🏆 Impact & Results (Proven Track Record)
 
-Ao longo da minha trajetória, especializei-me em **resolver problemas de alta complexidade** onde outros pararam:
+Throughout my career, I have specialized in **solving high-complexity problems** where others stalled:
 
-* **Resgate Técnico:** Finalizei um sistema de gestão paralisado há 12 meses devido à complexidade técnica (Crosoften).
-* **Performance Geoespacial:** Otimizei a velocidade de renderização utilizando **Mapbox** e **GeoJSON** para processamento de dados geográficos (B.M.O.).
-* **Real-time UX:** Implementação de dashboards com insights em tempo real via **Socket.io**.
-* **Missão Crítica:** Desenvolvimento de módulos de "Prova de Vida" com integrações governamentais de alta sensibilidade (3it Consultoria).
-* **Agilidade:** Entrega contínua em modelo de fábrica de software, atuando em 5 projetos distintos em 4 meses sem perda de ritmo.
+* **Technical Rescue:** Finalized a management system that had been halted for 12 months due to technical complexity (Crosoften).
+* **Geospatial Performance:** Optimized rendering speed using **Mapbox** and **GeoJSON** for advanced geographic data processing (B.M.O.).
+* **Real-time UX:** Implemented dashboards with real-time insights using **Socket.io**.
+* **Mission-Critical Systems:** Developed "Life Proof" (Prova de Vida) modules with high-stakes government data integration (3it Consultoria).
+* **Agility:** Continuous delivery in a software factory model, working on 5 distinct projects within 4 months without losing momentum.
 
 ---
 
-### 🛠️ Arsenal Tecnológico
+### 🛠️ Technical Arsenal
 
-**Backend & Infra**
+**Backend & Infrastructure**
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -41,14 +41,14 @@ Ao longo da minha trajetória, especializei-me em **resolver problemas de alta c
 
 ---
 
-### 💼 Projetos em Destaque
+### 💼 Featured Projects
 
-| Projeto | Tecnologia | Papel / Resultado |
+| Project | Technology | Role / Result |
 | :--- | :--- | :--- |
-| **B.M.O. System** | React / Vtal API | Integração de gateways de pagamento (Cora) e logística. |
-| **Prev +** | Flutter / Mobile | Recriação do produto principal com chat integrado e UX otimizada. |
-| **3prev** | Angular | Sistema de missão crítica com integração a dados governamentais. |
-| **Premier Brasil** | React | Desenvolvimento de interface de alta fidelidade e performance. |
+| **B.M.O. System** | React / Vtal API | Integrated payment gateways (Cora) and core logistics infrastructure. |
+| **Prev +** | Flutter / Mobile | Rebuilt the core product with integrated chat and optimized mobile UX. |
+| **3prev** | Angular | Mission-critical system with direct government data integration. |
+| **Premier Brasil** | React | Developed a high-fidelity interface with a focus on performance. |
 
 ---
 
@@ -66,11 +66,11 @@ Ao longo da minha trajetória, especializei-me em **resolver problemas de alta c
   <a href="mailto:enzogonzaga@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/EnzoAGW">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/YOUR-LINK-HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
 <br />
 
-> "O código limpo sempre parece ter sido escrito por alguém que se importa."
+> "Clean code always looks like it was written by someone who cares."
