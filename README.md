@@ -45,7 +45,7 @@ Throughout my career, I have specialized in **solving high-complexity problems**
 
 | Project | Technology | Role / Result |
 | :--- | :--- | :--- |
-| **B.M.O. System** | React / Vtal API | Integrated payment gateways (Cora) and core logistics infrastructure. |
+| **Neutra +** | React / ASP .NET core | Integrated payment gateways (Cora) and core logistics infrastructure. |
 | **Prev +** | Flutter / Mobile | Rebuilt the core product with integrated chat and optimized mobile UX. |
 | **3prev** | Angular | Mission-critical system with direct government data integration. |
 | **Premier Brasil** | React | Developed a high-fidelity interface with a focus on performance. |
