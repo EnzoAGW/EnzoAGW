@@ -54,15 +54,6 @@ Throughout my career, I have specialized in **solving high-complexity problems**
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnzoAGW&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAGW&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
----
-
 ### 📫 Contact & Social
 <div align="left">
   <a href="mailto:enzogonzaga@outlook.com">
