@@ -21,6 +21,8 @@ Throughout my career, I have specialized in **solving high-complexity problems**
 * **Real-time UX:** Implemented dashboards with real-time insights using **Socket.io**.
 * **Mission-Critical Systems:** Developed "Life Proof" (Prova de Vida) modules with high-stakes government data integration (3it Consultoria).
 * **Agility:** Continuous delivery in a software factory model, working on 5 distinct projects within 4 months without losing momentum.
+* **AI-Assisted Systems:** Designed a booking SaaS where a locally-run LLM parses natural-language requests into real available slots, with Redis-backed locking to prevent double-booked appointments ([Bookly](https://github.com/EnzoAGW/Bookly)).
+* **Real-Time Graphics:** Built a Web Audio–driven 3D visualizer, mapping live frequency analysis to instanced geometry and a custom bloom pipeline — outside the usual CRUD-dashboard scope ([Sonoscape](https://github.com/EnzoAGW/sonoscape)).
 
 ---
 
