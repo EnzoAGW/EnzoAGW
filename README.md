@@ -45,10 +45,10 @@ Throughout my career, I have specialized in **solving high-complexity problems**
 
 | Project | Technology | Role / Result |
 | :--- | :--- | :--- |
-| **Neutra +** | React / ASP .NET core | Integrated payment gateways (Cora) and core logistics infrastructure. |
-| **Prev +** | Flutter / Mobile | Rebuilt the core product with integrated chat and optimized mobile UX. |
-| **3prev** | Angular | Mission-critical system with direct government data integration. |
-| **Premier Brasil** | React | Developed a high-fidelity interface with a focus on performance. |
+| **[Bookly](https://github.com/EnzoAGW/Bookly)** | .NET 10 · CQRS · Angular · Ollama | Multi-tenant booking SaaS with a local-LLM natural-language assistant. [Live demo](https://bookly-fo8j.vercel.app) |
+| **[MedAgenda](https://github.com/EnzoAGW/medagenda)** | .NET · Next.js · PostgreSQL | Medical scheduling platform with real admin/physician/patient role separation. [Live demo](https://medagenda-drab.vercel.app) |
+| **[Ledgr](https://github.com/EnzoAGW/ledgr)** | .NET · Angular · Docker | Multi-tenant B2B fintech dashboard with org-scoped data access. |
+| **[Sonoscape](https://github.com/EnzoAGW/sonoscape)** | Three.js · Web Audio API · TypeScript | Real-time audio-reactive 3D visualizer with custom GLSL shaders and bloom post-processing. |
 
 ---
 
@@ -66,8 +66,11 @@ Throughout my career, I have specialized in **solving high-complexity problems**
   <a href="mailto:enzogonzaga@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINK-HERE">
+  <a href="https://www.linkedin.com/in/enzo-alexandre-937150150">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portfolio-enzoagws-projects.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
 
