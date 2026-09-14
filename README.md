@@ -47,9 +47,9 @@ Throughout my career, I have specialized in **solving high-complexity problems**
 
 | Project | Technology | Role / Result |
 | :--- | :--- | :--- |
-| **[Bookly](https://github.com/EnzoAGW/Bookly)** | .NET 10 · CQRS · Angular · Ollama | Multi-tenant booking SaaS with a local-LLM natural-language assistant. [Live demo](https://bookly-fo8j.vercel.app) |
-| **[MedAgenda](https://github.com/EnzoAGW/medagenda)** | .NET · Next.js · PostgreSQL | Medical scheduling platform with real admin/physician/patient role separation. [Live demo](https://medagenda-drab.vercel.app) |
-| **[Ledgr](https://github.com/EnzoAGW/ledgr)** | .NET · Angular · Docker | Multi-tenant B2B fintech dashboard with org-scoped data access. |
+| **[Bookly](https://github.com/EnzoAGW/Bookly)** | .NET 10 · CQRS · Angular · Ollama | Multi-tenant booking SaaS with a local-LLM natural-language assistant. [Live demo](https://bookly-fo8j.vercel.app) — try `admin@bookly.dev` / `Admin@123` |
+| **[MedAgenda](https://github.com/EnzoAGW/medagenda)** | .NET · Next.js · PostgreSQL | Medical scheduling platform with real admin/physician/patient role separation. [Live demo](https://medagenda-drab.vercel.app) — try `admin@medagenda.dev` / `admin123` |
+| **[Ledgr](https://github.com/EnzoAGW/ledgr)** | .NET · Angular · Docker | Multi-tenant B2B fintech dashboard with org-scoped data access. [Live demo](https://ledgr-mu-two.vercel.app) — try `admin@ledgr.dev` / `Admin@123` |
 | **[Sonoscape](https://github.com/EnzoAGW/sonoscape)** | Three.js · Web Audio API · TypeScript | Real-time audio-reactive 3D visualizer with custom GLSL shaders and bloom post-processing. |
 
 ---
