@@ -69,7 +69,7 @@ Throughout my career, I have specialized in **solving high-complexity problems**
   <a href="https://www.linkedin.com/in/enzo-alexandre-937150150">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portfolio-enzoagws-projects.vercel.app">
+  <a href="https://portfolio-psi-orpin-tv8uedqanx.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
